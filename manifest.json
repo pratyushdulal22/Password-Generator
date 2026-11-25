@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Strong Password Generator",
+  "version": "1.1",
+  "description": "Generate secure random passwords, length 5 to 148. Saves your last 10 and lets you pin favorites.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Strong Password Generator"
+  }
+}
